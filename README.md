@@ -3,8 +3,8 @@ Includes all exercises for mastering and understand golang in depth
 
 ### **1. Basic Syntax and Constructs**
 - [x]  **FizzBuzz in Go:** Write a program to print numbers from 1 to 100, replacing multiples of 3 with "Fizz", multiples of 5 with "Buzz", and multiples of both with "FizzBuzz".
-- [ ]  **Prime Numbers Generator:** Generate all prime numbers up to `N` using different approaches (e.g., Sieve of Eratosthenes, basic iteration).
-- [ ]  **Reverse a String:** Implement a function to reverse a string, considering UTF-8 characters.
+- [x]  **Prime Numbers Generator:** Generate all prime numbers up to `N` using different approaches (e.g., Sieve of Eratosthenes, basic iteration).
+- [x]  **Reverse a String:** Implement a function to reverse a string, considering UTF-8 characters.
 
 ---
 
